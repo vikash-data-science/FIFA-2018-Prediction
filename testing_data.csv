@@ -1,0 +1,9 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,year,Home_team_rank_2018,Away_team_rank_2018
+6/30/2018,Argentina,France,0,0,FIFA World Cup,Guadalajara,Russia,TRUE,2018,4,7
+6/30/2018,Portugal,Uruguay,0,0,FIFA World Cup,Mexico City,Russia,FALSE,2018,3,17
+6/30/2018,Spain,Russia,0,0,FIFA World Cup,Monterrey,Russia,TRUE,2018,8,65
+6/30/2018,Croatia,Denmark,0,0,FIFA World Cup,Monterrey,Russia,TRUE,2018,18,19
+6/30/2018,Brazil,Mexico,0,0,FIFA World Cup,Monterrey,Russia,TRUE,2018,2,16
+6/30/2018,Belgium,Japan,0,0,FIFA World Cup,Monterrey,Russia,TRUE,2018,5,44
+6/30/2018,Sweden,Switzerland,0,0,FIFA World Cup,Monterrey,Russia,TRUE,2018,25,11
+6/30/2018,Colombia,England,0,0,FIFA World Cup,Monterrey,Russia,TRUE,2018,13,12

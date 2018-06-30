@@ -1,0 +1,417 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,year,Home_team_rank_2018,Away_team_rank_2018,Winning team
+6/1/1986,Spain,Brazil,0,1,FIFA World Cup,Guadalajara,Mexico,TRUE,1986,8,2,Brazil
+6/3/1986,Mexico,Belgium,2,1,FIFA World Cup,Mexico City,Mexico,FALSE,1986,16,5,Mexico
+6/3/1986,Portugal,England,1,0,FIFA World Cup,Monterrey,Mexico,TRUE,1986,3,12,Portugal
+6/5/1986,France,Russia,1,1,FIFA World Cup,León,Mexico,TRUE,1986,7,65,Draw
+6/8/1986,Denmark,Uruguay,6,1,FIFA World Cup,Nezahualcóyotl,Mexico,TRUE,1986,19,17,Denmark
+6/15/1986,Russia,Belgium,3,4,FIFA World Cup,León,Mexico,TRUE,1986,65,5,Belgium
+6/16/1986,Argentina,Uruguay,1,0,FIFA World Cup,Puebla,Mexico,TRUE,1986,4,17,Argentina
+6/18/1986,Denmark,Spain,1,5,FIFA World Cup,Querétaro,Mexico,TRUE,1986,19,8,Spain
+6/21/1986,Brazil,France,1,1,FIFA World Cup,Guadalajara,Mexico,TRUE,1986,2,7,Draw
+6/22/1986,Argentina,England,2,1,FIFA World Cup,Mexico City,Mexico,TRUE,1986,4,12,Argentina
+6/22/1986,Spain,Belgium,1,1,FIFA World Cup,Puebla,Mexico,TRUE,1986,8,5,Draw
+6/25/1986,Argentina,Belgium,2,0,FIFA World Cup,Mexico City,Mexico,TRUE,1986,4,5,Argentina
+6/28/1986,France,Belgium,4,2,FIFA World Cup,Puebla,Mexico,TRUE,1986,7,5,France
+9/24/1986,Sweden,Switzerland,2,0,UEFA Euro qualification,Solna,Sweden,FALSE,1986,25,11,Sweden
+10/11/1986,France,Russia,0,2,UEFA Euro qualification,Paris,France,FALSE,1986,7,65,Russia
+10/12/1986,Portugal,Sweden,1,1,UEFA Euro qualification,Oeiras,Portugal,FALSE,1986,3,25,Draw
+10/29/1986,Switzerland,Portugal,1,1,UEFA Euro qualification,Berne,Switzerland,FALSE,1986,11,3,Draw
+5/19/1987,England,Brazil,1,1,Rous Cup,London,England,FALSE,1987,12,2,Draw
+6/17/1987,Switzerland,Sweden,1,1,UEFA Euro qualification,Lausanne,Switzerland,FALSE,1987,11,25,Draw
+7/9/1987,Argentina,Uruguay,0,1,Copa América,Buenos Aires,Argentina,FALSE,1987,4,17,Uruguay
+7/11/1987,Argentina,Colombia,1,2,Copa América,Buenos Aires,Argentina,FALSE,1987,4,13,Colombia
+9/9/1987,Russia,France,1,1,UEFA Euro qualification,Moscow,Soviet Union,FALSE,1987,65,7,Draw
+9/23/1987,Sweden,Portugal,0,1,UEFA Euro qualification,Solna,Sweden,FALSE,1987,25,3,Portugal
+11/11/1987,Portugal,Switzerland,0,0,UEFA Euro qualification,Porto,Portugal,FALSE,1987,3,11,Draw
+2/2/1988,France,Switzerland,2,1,Tournoi de France,Toulouse,France,FALSE,1988,7,11,France
+5/24/1988,England,Colombia,1,1,Rous Cup,London,England,FALSE,1988,12,13,Draw
+6/11/1988,Denmark,Spain,2,3,UEFA Euro,Hanover,Germany,TRUE,1988,19,8,Spain
+6/18/1988,England,Russia,1,3,UEFA Euro,Frankfurt am Main,Germany,TRUE,1988,12,65,Russia
+10/19/1988,Belgium,Switzerland,1,0,FIFA World Cup qualification,Brussels,Belgium,FALSE,1988,5,11,Belgium
+10/19/1988,England,Sweden,0,0,FIFA World Cup qualification,London,England,FALSE,1988,12,25,Draw
+2/15/1989,Portugal,Belgium,1,1,FIFA World Cup qualification,Lisbon,Portugal,FALSE,1989,3,5,Draw
+4/26/1989,Portugal,Switzerland,3,1,FIFA World Cup qualification,Lisbon,Portugal,FALSE,1989,3,11,Portugal
+7/7/1989,Brazil,Colombia,0,0,Copa América,Salvador,Brazil,FALSE,1989,2,13,Draw
+7/8/1989,Uruguay,Argentina,0,1,Copa América,Goiânia,Brazil,TRUE,1989,17,4,Argentina
+7/12/1989,Brazil,Argentina,2,0,Copa América,Rio de Janeiro,Brazil,FALSE,1989,2,4,Brazil
+7/14/1989,Argentina,Uruguay,0,2,Copa América,Rio de Janeiro,Brazil,TRUE,1989,4,17,Uruguay
+7/16/1989,Brazil,Uruguay,1,0,Copa América,Rio de Janeiro,Brazil,FALSE,1989,2,17,Brazil
+9/6/1989,Belgium,Portugal,3,0,FIFA World Cup qualification,Brussels,Belgium,FALSE,1989,5,3,Belgium
+9/6/1989,Sweden,England,0,0,FIFA World Cup qualification,Solna,Sweden,FALSE,1989,25,12,Draw
+9/20/1989,Switzerland,Portugal,1,2,FIFA World Cup qualification,Neuchâtel,Switzerland,FALSE,1989,11,3,Portugal
+10/11/1989,Switzerland,Belgium,2,2,FIFA World Cup qualification,Basel,Switzerland,FALSE,1989,11,5,Draw
+6/10/1990,Brazil,Sweden,2,1,FIFA World Cup,Turin,Italy,TRUE,1990,2,25,Brazil
+6/13/1990,Argentina,Russia,2,0,FIFA World Cup,Naples,Italy,TRUE,1990,4,65,Argentina
+6/13/1990,Uruguay,Spain,0,0,FIFA World Cup,Udine,Italy,TRUE,1990,17,8,Draw
+6/17/1990,Belgium,Uruguay,3,1,FIFA World Cup,Verona,Italy,TRUE,1990,5,17,Belgium
+6/21/1990,Belgium,Spain,1,2,FIFA World Cup,Verona,Italy,TRUE,1990,5,8,Spain
+6/24/1990,Brazil,Argentina,0,1,FIFA World Cup,Turin,Italy,TRUE,1990,2,4,Argentina
+6/26/1990,England,Belgium,1,0,FIFA World Cup,Bologna,Italy,TRUE,1990,12,5,England
+2/20/1991,France,Spain,3,1,UEFA Euro qualification,Paris,France,FALSE,1991,7,8,France
+7/11/1991,Brazil,Uruguay,1,1,Copa América,Viña del Mar,Chile,TRUE,1991,2,17,Draw
+7/13/1991,Brazil,Colombia,0,2,Copa América,Viña del Mar,Chile,TRUE,1991,2,13,Colombia
+7/15/1991,Colombia,Uruguay,0,1,Copa América,Viña del Mar,Chile,TRUE,1991,13,17,Uruguay
+7/17/1991,Argentina,Brazil,3,2,Copa América,Santiago,Chile,TRUE,1991,4,2,Argentina
+7/19/1991,Brazil,Colombia,2,0,Copa América,Santiago,Chile,TRUE,1991,2,13,Brazil
+7/21/1991,Argentina,Colombia,2,1,Copa América,Santiago,Chile,TRUE,1991,4,13,Argentina
+10/12/1991,Spain,France,1,2,UEFA Euro qualification,Seville,Spain,FALSE,1991,8,7,France
+6/10/1992,Sweden,France,1,1,UEFA Euro,Solna,Sweden,FALSE,1992,25,7,Draw
+6/11/1992,Denmark,England,0,0,UEFA Euro,Malmö,Sweden,TRUE,1992,19,12,Draw
+6/14/1992,France,England,0,0,UEFA Euro,Malmö,Sweden,TRUE,1992,7,12,Draw
+6/14/1992,Sweden,Denmark,1,0,UEFA Euro,Solna,Sweden,FALSE,1992,25,19,Sweden
+6/17/1992,France,Denmark,1,2,UEFA Euro,Malmö,Sweden,TRUE,1992,7,19,Denmark
+6/17/1992,Sweden,England,2,1,UEFA Euro,Solna,Sweden,FALSE,1992,25,12,Sweden
+9/23/1992,Uruguay,Argentina,0,0,Copa Lipton,Montevideo,Uruguay,FALSE,1992,17,4,Draw
+3/31/1993,Denmark,Spain,1,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE,1993,19,8,Denmark
+3/31/1993,Switzerland,Portugal,1,1,FIFA World Cup qualification,Berne,Switzerland,FALSE,1993,11,3,Draw
+4/28/1993,France,Sweden,2,1,FIFA World Cup qualification,Paris,France,FALSE,1993,7,25,France
+6/13/1993,Brazil,England,1,1,USA Cup,Washington,USA,TRUE,1993,2,12,Draw
+6/16/1993,Colombia,Mexico,2,1,Copa América,Machala,Ecuador,TRUE,1993,13,16,Colombia
+6/20/1993,Argentina,Mexico,1,1,Copa América,Guayaquil,Ecuador,TRUE,1993,4,16,Draw
+6/23/1993,Argentina,Colombia,1,1,Copa América,Guayaquil,Ecuador,TRUE,1993,4,13,Draw
+6/26/1993,Colombia,Uruguay,1,1,Copa América,Guayaquil,Ecuador,TRUE,1993,13,17,Draw
+6/27/1993,Brazil,Argentina,1,1,Copa América,Guayaquil,Ecuador,TRUE,1993,2,4,Draw
+7/1/1993,Colombia,Argentina,0,0,Copa América,Guayaquil,Ecuador,TRUE,1993,13,4,Draw
+7/4/1993,Argentina,Mexico,2,1,Copa América,Guayaquil,Ecuador,TRUE,1993,4,16,Argentina
+8/15/1993,Colombia,Argentina,2,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,1993,13,4,Colombia
+8/15/1993,Uruguay,Brazil,1,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,1993,17,2,Draw
+8/22/1993,Sweden,France,1,1,FIFA World Cup qualification,Solna,Sweden,FALSE,1993,25,7,Draw
+9/5/1993,Argentina,Colombia,0,5,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,1993,4,13,Colombia
+9/19/1993,Brazil,Uruguay,2,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,FALSE,1993,2,17,Brazil
+10/13/1993,Portugal,Switzerland,1,0,FIFA World Cup qualification,Porto,Portugal,FALSE,1993,3,11,Portugal
+11/17/1993,Spain,Denmark,1,0,FIFA World Cup qualification,Seville,Spain,FALSE,1993,8,19,Spain
+5/29/1994,Japan,France,1,4,Kirin Cup,Tokyo,Japan,FALSE,1994,44,7,France
+6/20/1994,Brazil,Russia,2,0,FIFA World Cup,Palo Alto,USA,TRUE,1994,2,65,Brazil
+6/24/1994,Sweden,Russia,3,1,FIFA World Cup,Pontiac,USA,TRUE,1994,25,65,Sweden
+6/26/1994,Switzerland,Colombia,0,2,FIFA World Cup,Palo Alto,USA,TRUE,1994,11,13,Colombia
+6/28/1994,Brazil,Sweden,1,1,FIFA World Cup,Pontiac,USA,TRUE,1994,2,25,Draw
+7/2/1994,Spain,Switzerland,3,0,FIFA World Cup,Washington,USA,TRUE,1994,8,11,Spain
+7/13/1994,Sweden,Brazil,0,1,FIFA World Cup,Pasadena,USA,TRUE,1994,25,2,Brazil
+10/12/1994,Denmark,Belgium,3,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE,1994,19,5,Denmark
+10/12/1994,Switzerland,Sweden,4,2,UEFA Euro qualification,Berne,Switzerland,FALSE,1994,11,25,Switzerland
+11/16/1994,Spain,Denmark,3,0,UEFA Euro qualification,Seville,Spain,FALSE,1994,8,19,Spain
+12/17/1994,Belgium,Spain,1,4,UEFA Euro qualification,Brussels,Belgium,FALSE,1994,5,8,Spain
+1/8/1995,Japan,Argentina,1,5,Confederations Cup,Riyadh,Saudi Arabia,TRUE,1995,44,4,Argentina
+1/10/1995,Denmark,Mexico,1,1,Confederations Cup,Riyadh,Saudi Arabia,TRUE,1995,19,16,Draw
+1/13/1995,Denmark,Argentina,2,0,Confederations Cup,Riyadh,Saudi Arabia,TRUE,1995,19,4,Denmark
+3/29/1995,Spain,Belgium,1,1,UEFA Euro qualification,Seville,Spain,FALSE,1995,8,5,Draw
+6/21/1995,Mexico,Colombia,0,0,USA Cup,Washington,USA,TRUE,1995,16,13,Draw
+7/13/1995,Brazil,Colombia,3,0,Copa América,Rivera,Uruguay,TRUE,1995,2,13,Brazil
+7/13/1995,Uruguay,Mexico,1,1,Copa América,Montevideo,Uruguay,FALSE,1995,17,16,Draw
+7/17/1995,Brazil,Argentina,2,2,Copa América,Rivera,Uruguay,TRUE,1995,2,4,Draw
+7/19/1995,Uruguay,Colombia,2,0,Copa América,Montevideo,Uruguay,FALSE,1995,17,13,Uruguay
+7/23/1995,Uruguay,Brazil,1,1,Copa América,Montevideo,Uruguay,FALSE,1995,17,2,Draw
+9/6/1995,Belgium,Denmark,1,3,UEFA Euro qualification,Brussels,Belgium,FALSE,1995,5,19,Denmark
+9/6/1995,Sweden,Switzerland,0,0,UEFA Euro qualification,Gothenburg,Sweden,FALSE,1995,25,11,Draw
+10/11/1995,Denmark,Spain,1,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE,1995,19,8,Draw
+1/21/1996,Mexico,Brazil,2,0,Gold Cup,Los Angeles,USA,TRUE,1996,16,2,Mexico
+2/22/1996,Japan,Sweden,1,1,Lunar New Year Cup,So Kon Po,Hong Kong,TRUE,1996,44,25,Draw
+5/29/1996,Japan,Mexico,3,2,Kirin Cup,Fukuoka,Japan,FALSE,1996,44,16,Japan
+6/8/1996,England,Switzerland,1,1,UEFA Euro,London,England,FALSE,1996,12,11,Draw
+6/9/1996,Denmark,Portugal,1,1,UEFA Euro,Sheffield,England,TRUE,1996,19,3,Draw
+6/15/1996,France,Spain,1,1,UEFA Euro,Leeds,England,TRUE,1996,7,8,Draw
+6/16/1996,Croatia,Denmark,3,0,UEFA Euro,Sheffield,England,TRUE,1996,18,19,Croatia
+6/19/1996,Croatia,Portugal,0,3,UEFA Euro,Nottingham,England,TRUE,1996,18,3,Portugal
+6/22/1996,England,Spain,0,0,UEFA Euro,London,England,FALSE,1996,12,8,Draw
+7/7/1996,Colombia,Uruguay,3,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,1996,13,17,Colombia
+1/12/1997,Uruguay,Argentina,0,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,1997,17,4,Draw
+2/10/1997,Russia,Switzerland,2,1,Lunar New Year Cup,So Kon Po,Hong Kong,TRUE,1997,65,11,Russia
+2/12/1997,Colombia,Argentina,0,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,1997,13,4,Argentina
+2/13/1997,Japan,Sweden,0,1,King's Cup,Bangkok,Thailand,TRUE,1997,44,25,Sweden
+3/29/1997,Croatia,Denmark,1,1,FIFA World Cup qualification,Split,Croatia,FALSE,1997,18,19,Draw
+6/3/1997,France,Brazil,1,1,Tournoi de France,Lyon,France,FALSE,1997,7,2,Draw
+6/7/1997,France,England,0,1,Tournoi de France,Montpellier,France,FALSE,1997,7,12,England
+6/8/1997,Japan,Croatia,4,3,Kirin Cup,Tokyo,Japan,FALSE,1997,44,18,Japan
+6/8/1997,Uruguay,Colombia,1,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,1997,17,13,Draw
+6/10/1997,England,Brazil,0,1,Tournoi de France,Paris,France,TRUE,1997,12,2,Brazil
+6/13/1997,Mexico,Colombia,2,1,Copa América,Santa Cruz,Bolivia,TRUE,1997,16,13,Mexico
+6/16/1997,Brazil,Mexico,3,2,Copa América,Santa Cruz,Bolivia,TRUE,1997,2,16,Brazil
+6/19/1997,Brazil,Colombia,2,0,Copa América,Santa Cruz,Bolivia,TRUE,1997,2,13,Brazil
+9/10/1997,Denmark,Croatia,3,1,FIFA World Cup qualification,Copenhagen,Denmark,FALSE,1997,19,18,Denmark
+10/12/1997,Argentina,Uruguay,0,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,1997,4,17,Draw
+11/16/1997,Argentina,Colombia,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,1997,4,13,Draw
+12/16/1997,Brazil,Mexico,3,2,Confederations Cup,Riyadh,Saudi Arabia,TRUE,1997,2,16,Brazil
+5/27/1998,Belgium,France,0,1,King Hassan II Tournament,Casablanca,Morocco,TRUE,1998,5,7,France
+5/29/1998,Belgium,England,0,0,King Hassan II Tournament,Casablanca,Morocco,TRUE,1998,5,12,Draw
+6/14/1998,Argentina,Japan,1,0,FIFA World Cup,Toulouse,France,TRUE,1998,4,44,Argentina
+6/20/1998,Belgium,Mexico,2,2,FIFA World Cup,Bordeaux,France,TRUE,1998,5,16,Draw
+6/20/1998,Japan,Croatia,0,1,FIFA World Cup,Nantes,France,TRUE,1998,44,18,Croatia
+6/24/1998,France,Denmark,2,1,FIFA World Cup,Lyon,France,FALSE,1998,7,19,France
+6/26/1998,Argentina,Croatia,1,0,FIFA World Cup,Bordeaux,France,TRUE,1998,4,18,Argentina
+6/26/1998,Colombia,England,0,2,FIFA World Cup,Lens,France,TRUE,1998,13,12,England
+6/30/1998,Argentina,England,2,2,FIFA World Cup,Saint-Étienne,France,TRUE,1998,4,12,Draw
+7/3/1998,Brazil,Denmark,3,2,FIFA World Cup,Nantes,France,TRUE,1998,2,19,Brazil
+7/8/1998,France,Croatia,2,1,FIFA World Cup,Saint-Denis,France,FALSE,1998,7,18,France
+7/12/1998,France,Brazil,3,0,FIFA World Cup,Saint-Denis,France,FALSE,1998,7,2,France
+9/5/1998,Sweden,England,2,1,UEFA Euro qualification,Solna,Sweden,FALSE,1998,25,12,Sweden
+10/10/1998,Russia,France,2,3,UEFA Euro qualification,Moscow,Russia,FALSE,1998,65,7,France
+10/14/1998,Switzerland,Denmark,1,1,UEFA Euro qualification,Zürich,Switzerland,FALSE,1998,11,19,Draw
+6/3/1999,Japan,Belgium,0,0,Kirin Cup,Tokyo,Japan,FALSE,1999,44,5,Draw
+6/5/1999,England,Sweden,0,0,UEFA Euro qualification,London,England,FALSE,1999,12,25,Draw
+6/5/1999,France,Russia,2,3,UEFA Euro qualification,Saint-Denis,France,FALSE,1999,7,65,Russia
+6/16/1999,Croatia,Mexico,2,1,Korea Cup,Seoul,Korea Republic,TRUE,1999,18,16,Croatia
+7/1/1999,Uruguay,Colombia,0,1,Copa América,Asunción,Paraguay,TRUE,1999,17,13,Colombia
+7/3/1999,Brazil,Mexico,2,1,Copa América,Ciudad del Este,Paraguay,TRUE,1999,2,16,Brazil
+7/4/1999,Argentina,Colombia,0,3,Copa América,Luque,Paraguay,TRUE,1999,4,13,Colombia
+7/7/1999,Uruguay,Argentina,0,2,Copa América,Luque,Paraguay,TRUE,1999,17,4,Argentina
+7/11/1999,Brazil,Argentina,2,1,Copa América,Ciudad del Este,Paraguay,TRUE,1999,2,4,Brazil
+7/14/1999,Mexico,Brazil,0,2,Copa América,Ciudad del Este,Paraguay,TRUE,1999,16,2,Brazil
+7/18/1999,Brazil,Uruguay,3,0,Copa América,Asunción,Paraguay,TRUE,1999,2,17,Brazil
+8/4/1999,Mexico,Brazil,4,3,Confederations Cup,Mexico City,Mexico,FALSE,1999,16,2,Mexico
+9/4/1999,Denmark,Switzerland,2,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE,1999,19,11,Denmark
+2/5/2000,Japan,Mexico,0,1,Lunar New Year Cup,So Kon Po,Hong Kong,TRUE,2000,44,16,Mexico
+3/28/2000,Colombia,Brazil,0,0,FIFA World Cup qualification,Bogotá,Colombia,FALSE,2000,13,2,Draw
+6/4/2000,France,Japan,2,2,King Hassan II Tournament,Casablanca,Morocco,TRUE,2000,7,44,Draw
+6/10/2000,Belgium,Sweden,2,1,UEFA Euro,Brussels,Belgium,FALSE,2000,5,25,Belgium
+6/11/2000,France,Denmark,3,0,UEFA Euro,Bruges,Belgium,TRUE,2000,7,19,France
+6/12/2000,Portugal,England,3,2,UEFA Euro,Eindhoven,Netherlands,TRUE,2000,3,12,Portugal
+6/25/2000,Spain,France,1,2,UEFA Euro,Bruges,Belgium,TRUE,2000,8,7,France
+6/28/2000,Brazil,Uruguay,1,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,FALSE,2000,2,17,Draw
+6/28/2000,France,Portugal,2,1,UEFA Euro,Brussels,Belgium,TRUE,2000,7,3,France
+6/29/2000,Colombia,Argentina,1,3,FIFA World Cup qualification,Bogotá,Colombia,FALSE,2000,13,4,Argentina
+7/26/2000,Brazil,Argentina,3,1,FIFA World Cup qualification,São Paulo,Brazil,FALSE,2000,2,4,Brazil
+8/15/2000,Colombia,Uruguay,1,0,FIFA World Cup qualification,Bogotá,Colombia,FALSE,2000,13,17,Colombia
+9/2/2000,Belgium,Croatia,0,0,FIFA World Cup qualification,Brussels,Belgium,FALSE,2000,5,18,Draw
+9/2/2000,Switzerland,Russia,0,1,FIFA World Cup qualification,Zürich,Switzerland,FALSE,2000,11,65,Russia
+10/8/2000,Argentina,Uruguay,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,2000,4,17,Argentina
+11/15/2000,Brazil,Colombia,1,0,FIFA World Cup qualification,São Paulo,Brazil,FALSE,2000,2,13,Brazil
+6/3/2001,Argentina,Colombia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,2001,4,13,Argentina
+6/3/2001,France,Mexico,4,0,Confederations Cup,Ulsan,Korea Republic,TRUE,2001,7,16,France
+6/4/2001,Japan,Brazil,0,0,Confederations Cup,Kashima,Japan,FALSE,2001,44,2,Draw
+6/7/2001,France,Brazil,2,1,Confederations Cup,Suwon,Korea Republic,TRUE,2001,7,2,France
+6/10/2001,Japan,France,0,1,Confederations Cup,Yokohama,Japan,FALSE,2001,44,7,France
+7/1/2001,Uruguay,Brazil,1,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2001,17,2,Uruguay
+7/12/2001,Brazil,Mexico,0,1,Copa América,Cali,Colombia,TRUE,2001,2,16,Mexico
+7/25/2001,Mexico,Uruguay,2,1,Copa América,Pereira,Colombia,TRUE,2001,16,17,Mexico
+7/29/2001,Colombia,Mexico,1,0,Copa América,Bogotá,Colombia,FALSE,2001,13,16,Colombia
+9/5/2001,Argentina,Brazil,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,2001,4,2,Argentina
+10/6/2001,Croatia,Belgium,1,0,FIFA World Cup qualification,Zagreb,Croatia,FALSE,2001,18,5,Croatia
+10/6/2001,Russia,Switzerland,4,0,FIFA World Cup qualification,Moscow,Russia,FALSE,2001,65,11,Russia
+10/7/2001,Uruguay,Colombia,1,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2001,17,13,Draw
+11/14/2001,Uruguay,Argentina,1,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2001,17,4,Draw
+6/1/2002,Uruguay,Denmark,1,2,FIFA World Cup,Ulsan,Korea Republic,TRUE,2002,17,19,Denmark
+6/2/2002,England,Sweden,1,1,FIFA World Cup,Saitama,Japan,TRUE,2002,12,25,Draw
+6/3/2002,Croatia,Mexico,0,1,FIFA World Cup,Niigata,Japan,TRUE,2002,18,16,Mexico
+6/4/2002,Japan,Belgium,2,2,FIFA World Cup,Saitama,Japan,FALSE,2002,44,5,Draw
+6/6/2002,France,Uruguay,0,0,FIFA World Cup,Busan,Korea Republic,TRUE,2002,7,17,Draw
+6/7/2002,Argentina,England,0,1,FIFA World Cup,Sapporo,Japan,TRUE,2002,4,12,England
+6/9/2002,Japan,Russia,1,0,FIFA World Cup,Yokohama,Japan,FALSE,2002,44,65,Japan
+6/11/2002,Denmark,France,2,0,FIFA World Cup,Incheon,Korea Republic,TRUE,2002,19,7,Denmark
+6/12/2002,Sweden,Argentina,1,1,FIFA World Cup,Rifu,Japan,TRUE,2002,25,4,Draw
+6/14/2002,Belgium,Russia,3,2,FIFA World Cup,Fukuroi,Japan,TRUE,2002,5,65,Belgium
+6/15/2002,Denmark,England,0,3,FIFA World Cup,Niigata,Japan,TRUE,2002,19,12,England
+6/17/2002,Brazil,Belgium,2,0,FIFA World Cup,Kobe,Japan,TRUE,2002,2,5,Brazil
+6/21/2002,England,Brazil,1,2,FIFA World Cup,Fukuroi,Japan,TRUE,2002,12,2,Brazil
+3/29/2003,Croatia,Belgium,4,0,UEFA Euro qualification,Zagreb,Croatia,FALSE,2003,18,5,Croatia
+6/7/2003,Switzerland,Russia,2,2,UEFA Euro qualification,Basel,Switzerland,FALSE,2003,11,65,Draw
+6/8/2003,Japan,Argentina,1,4,Kirin Cup,Osaka,Japan,FALSE,2003,44,4,Argentina
+6/18/2003,France,Colombia,1,0,Confederations Cup,Lyon,France,FALSE,2003,7,13,France
+6/20/2003,France,Japan,2,1,Confederations Cup,Saint-Étienne,France,FALSE,2003,7,44,France
+6/22/2003,Japan,Colombia,0,1,Confederations Cup,Saint-Étienne,France,TRUE,2003,44,13,Colombia
+7/13/2003,Mexico,Brazil,1,0,Gold Cup,Mexico City,Mexico,FALSE,2003,16,2,Mexico
+7/19/2003,Colombia,Brazil,0,2,Gold Cup,Miami,USA,TRUE,2003,13,2,Brazil
+7/27/2003,Mexico,Brazil,1,0,Gold Cup,Mexico City,Mexico,FALSE,2003,16,2,Mexico
+9/7/2003,Colombia,Brazil,1,2,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,2003,13,2,Brazil
+9/10/2003,Belgium,Croatia,2,1,UEFA Euro qualification,Brussels,Belgium,FALSE,2003,5,18,Belgium
+9/10/2003,Russia,Switzerland,4,1,UEFA Euro qualification,Moscow,Russia,FALSE,2003,65,11,Russia
+11/19/2003,Brazil,Uruguay,3,3,FIFA World Cup qualification,Curitiba,Brazil,FALSE,2003,2,17,Draw
+11/19/2003,Colombia,Argentina,1,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,2003,13,4,Draw
+6/2/2004,Brazil,Argentina,3,1,FIFA World Cup qualification,Belo Horizonte,Brazil,FALSE,2004,2,4,Brazil
+6/6/2004,Colombia,Uruguay,5,0,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,2004,13,17,Colombia
+6/12/2004,Spain,Russia,1,0,UEFA Euro,Faro,Portugal,TRUE,2004,8,65,Spain
+6/13/2004,France,England,2,1,UEFA Euro,Lisbon,Portugal,TRUE,2004,7,12,France
+6/13/2004,Switzerland,Croatia,0,0,UEFA Euro,Leiria,Portugal,TRUE,2004,11,18,Draw
+6/16/2004,Portugal,Russia,2,0,UEFA Euro,Lisbon,Portugal,FALSE,2004,3,65,Portugal
+6/17/2004,Croatia,France,2,2,UEFA Euro,Leiria,Portugal,TRUE,2004,18,7,Draw
+6/17/2004,England,Switzerland,3,0,UEFA Euro,Coimbra,Portugal,TRUE,2004,12,11,England
+6/20/2004,Portugal,Spain,1,0,UEFA Euro,Lisbon,Portugal,FALSE,2004,3,8,Portugal
+6/21/2004,Croatia,England,2,4,UEFA Euro,Lisbon,Portugal,TRUE,2004,18,12,England
+6/21/2004,Switzerland,France,1,3,UEFA Euro,Coimbra,Portugal,TRUE,2004,11,7,France
+6/22/2004,Denmark,Sweden,2,2,UEFA Euro,Porto,Portugal,TRUE,2004,19,25,Draw
+6/24/2004,Portugal,England,2,2,UEFA Euro,Lisbon,Portugal,FALSE,2004,3,12,Draw
+7/7/2004,Mexico,Uruguay,2,2,Copa América,Chiclayo,Peru,TRUE,2004,16,17,Draw
+7/10/2004,Argentina,Mexico,0,1,Copa América,Chiclayo,Peru,TRUE,2004,4,16,Mexico
+7/13/2004,Argentina,Uruguay,4,2,Copa América,Piura,Peru,TRUE,2004,4,17,Argentina
+7/18/2004,Mexico,Brazil,0,4,Copa América,Piura,Peru,TRUE,2004,16,2,Brazil
+7/20/2004,Argentina,Colombia,3,0,Copa América,Lima,Peru,TRUE,2004,4,13,Argentina
+7/21/2004,Uruguay,Brazil,1,1,Copa América,Lima,Peru,TRUE,2004,17,2,Draw
+7/24/2004,Colombia,Uruguay,1,2,Copa América,Cusco,Peru,TRUE,2004,13,17,Uruguay
+7/25/2004,Argentina,Brazil,2,2,Copa América,Lima,Peru,TRUE,2004,4,2,Draw
+9/8/2004,Sweden,Croatia,0,1,FIFA World Cup qualification,Gothenburg,Sweden,FALSE,2004,25,18,Croatia
+10/9/2004,Argentina,Uruguay,4,2,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,2004,4,17,Argentina
+10/9/2004,Spain,Belgium,2,0,FIFA World Cup qualification,Santander,Spain,FALSE,2004,8,5,Spain
+10/13/2004,Brazil,Colombia,0,0,FIFA World Cup qualification,Maceió,Brazil,FALSE,2004,2,13,Draw
+10/13/2004,Portugal,Russia,7,1,FIFA World Cup qualification,Lisbon,Portugal,FALSE,2004,3,65,Portugal
+3/26/2005,France,Switzerland,0,0,FIFA World Cup qualification,Saint-Denis,France,FALSE,2005,7,11,Draw
+3/30/2005,Argentina,Colombia,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,2005,4,13,Argentina
+3/30/2005,Uruguay,Brazil,1,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2005,17,2,Draw
+6/8/2005,Argentina,Brazil,3,1,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,2005,4,2,Argentina
+6/16/2005,Japan,Mexico,1,2,Confederations Cup,Hanover,Germany,TRUE,2005,44,16,Mexico
+6/19/2005,Mexico,Brazil,1,0,Confederations Cup,Hanover,Germany,TRUE,2005,16,2,Mexico
+6/22/2005,Japan,Brazil,2,2,Confederations Cup,Cologne,Germany,TRUE,2005,44,2,Draw
+6/26/2005,Mexico,Argentina,1,1,Confederations Cup,Hanover,Germany,TRUE,2005,16,4,Draw
+6/29/2005,Brazil,Argentina,4,1,Confederations Cup,Frankfurt am Main,Germany,TRUE,2005,2,4,Brazil
+7/17/2005,Mexico,Colombia,1,2,Gold Cup,Houston,USA,TRUE,2005,16,13,Colombia
+9/4/2005,Uruguay,Colombia,3,2,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2005,17,13,Uruguay
+9/7/2005,Russia,Portugal,0,0,FIFA World Cup qualification,Moscow,Russia,FALSE,2005,65,3,Draw
+10/8/2005,Belgium,Spain,0,2,FIFA World Cup qualification,Brussels,Belgium,FALSE,2005,5,8,Spain
+10/8/2005,Croatia,Sweden,1,0,FIFA World Cup qualification,Zagreb,Croatia,FALSE,2005,18,25,Croatia
+10/8/2005,Switzerland,France,1,1,FIFA World Cup qualification,Berne,Switzerland,FALSE,2005,11,7,Draw
+10/12/2005,Uruguay,Argentina,1,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2005,17,4,Uruguay
+6/13/2006,Brazil,Croatia,1,0,FIFA World Cup,Berlin,Germany,TRUE,2006,2,18,Brazil
+6/13/2006,France,Switzerland,0,0,FIFA World Cup,Stuttgart,Germany,TRUE,2006,7,11,Draw
+6/18/2006,Japan,Croatia,0,0,FIFA World Cup,Nuremberg,Germany,TRUE,2006,44,18,Draw
+6/20/2006,Sweden,England,2,2,FIFA World Cup,Cologne,Germany,TRUE,2006,25,12,Draw
+6/21/2006,Portugal,Mexico,2,1,FIFA World Cup,Gelsenkirchen,Germany,TRUE,2006,3,16,Portugal
+6/22/2006,Japan,Brazil,1,4,FIFA World Cup,Dortmund,Germany,TRUE,2006,44,2,Brazil
+6/24/2006,Argentina,Mexico,2,1,FIFA World Cup,Leipzig,Germany,TRUE,2006,4,16,Argentina
+6/27/2006,Spain,France,1,3,FIFA World Cup,Hanover,Germany,TRUE,2006,8,7,France
+7/1/2006,Brazil,France,0,1,FIFA World Cup,Frankfurt am Main,Germany,TRUE,2006,2,7,France
+7/1/2006,England,Portugal,0,0,FIFA World Cup,Gelsenkirchen,Germany,TRUE,2006,12,3,Draw
+7/5/2006,Portugal,France,0,1,FIFA World Cup,Munich,Germany,TRUE,2006,3,7,France
+9/6/2006,Russia,Croatia,0,0,UEFA Euro qualification,Moscow,Russia,FALSE,2006,65,18,Draw
+10/7/2006,Sweden,Spain,2,0,UEFA Euro qualification,Solna,Sweden,FALSE,2006,25,8,Sweden
+10/11/2006,Croatia,England,2,0,UEFA Euro qualification,Zagreb,Croatia,FALSE,2006,18,12,Croatia
+3/24/2007,Portugal,Belgium,4,0,UEFA Euro qualification,Lisbon,Portugal,FALSE,2007,3,5,Portugal
+3/24/2007,Spain,Denmark,2,1,UEFA Euro qualification,Madrid,Spain,FALSE,2007,8,19,Spain
+6/2/2007,Belgium,Portugal,1,2,UEFA Euro qualification,Brussels,Belgium,FALSE,2007,5,3,Portugal
+6/2/2007,Denmark,Sweden,0,3,UEFA Euro qualification,Copenhagen,Denmark,FALSE,2007,19,25,Sweden
+6/5/2007,Japan,Colombia,0,0,Kirin Cup,Saitama,Japan,FALSE,2007,44,13,Draw
+6/6/2007,Croatia,Russia,0,0,UEFA Euro qualification,Zagreb,Croatia,FALSE,2007,18,65,Draw
+6/27/2007,Brazil,Mexico,0,2,Copa América,Puerto Ordaz,Venezuela,TRUE,2007,2,16,Mexico
+7/2/2007,Argentina,Colombia,4,2,Copa América,Maracaibo,Venezuela,TRUE,2007,4,13,Argentina
+7/10/2007,Uruguay,Brazil,2,2,Copa América,Maracaibo,Venezuela,TRUE,2007,17,2,Draw
+7/11/2007,Mexico,Argentina,0,3,Copa América,Puerto Ordaz,Venezuela,TRUE,2007,16,4,Argentina
+7/14/2007,Mexico,Uruguay,3,1,Copa América,Caracas,Venezuela,TRUE,2007,16,17,Mexico
+7/15/2007,Brazil,Argentina,3,0,Copa América,Maracaibo,Venezuela,TRUE,2007,2,4,Brazil
+9/8/2007,Sweden,Denmark,0,0,UEFA Euro qualification,Solna,Sweden,FALSE,2007,25,19,Draw
+9/12/2007,England,Russia,3,0,UEFA Euro qualification,London,England,FALSE,2007,12,65,England
+10/13/2007,Denmark,Spain,1,3,UEFA Euro qualification,Århus,Denmark,FALSE,2007,19,8,Spain
+10/14/2007,Colombia,Brazil,0,0,FIFA World Cup qualification,Bogotá,Colombia,FALSE,2007,13,2,Draw
+10/17/2007,Russia,England,2,1,UEFA Euro qualification,Moscow,Russia,FALSE,2007,65,12,Russia
+11/17/2007,Spain,Sweden,3,0,UEFA Euro qualification,Madrid,Spain,FALSE,2007,8,25,Spain
+11/20/2007,Colombia,Argentina,2,1,FIFA World Cup qualification,Bogotá,Colombia,FALSE,2007,13,4,Colombia
+11/21/2007,Brazil,Uruguay,2,1,FIFA World Cup qualification,São Paulo,Brazil,FALSE,2007,2,17,Brazil
+11/21/2007,England,Croatia,2,3,UEFA Euro qualification,London,England,FALSE,2007,12,18,Croatia
+6/10/2008,Spain,Russia,4,1,UEFA Euro,Innsbruck,Austria,TRUE,2008,8,65,Spain
+6/14/2008,Sweden,Spain,1,2,UEFA Euro,Innsbruck,Austria,TRUE,2008,25,8,Spain
+6/15/2008,Switzerland,Portugal,2,0,UEFA Euro,Basel,Switzerland,FALSE,2008,11,3,Switzerland
+6/18/2008,Russia,Sweden,2,0,UEFA Euro,Innsbruck,Austria,TRUE,2008,65,25,Russia
+6/26/2008,Russia,Spain,0,3,UEFA Euro,Vienna,Austria,TRUE,2008,65,8,Spain
+9/6/2008,Colombia,Uruguay,0,1,FIFA World Cup qualification,Bogotá,Colombia,FALSE,2008,13,17,Uruguay
+9/10/2008,Croatia,England,1,4,FIFA World Cup qualification,Zagreb,Croatia,FALSE,2008,18,12,England
+9/10/2008,Portugal,Denmark,2,3,FIFA World Cup qualification,Lisbon,Portugal,FALSE,2008,3,19,Denmark
+10/11/2008,Argentina,Uruguay,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,2008,4,17,Argentina
+10/11/2008,Sweden,Portugal,0,0,FIFA World Cup qualification,Solna,Sweden,FALSE,2008,25,3,Draw
+10/15/2008,Belgium,Spain,1,2,FIFA World Cup qualification,Brussels,Belgium,FALSE,2008,5,8,Spain
+10/15/2008,Brazil,Colombia,0,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,FALSE,2008,2,13,Draw
+3/28/2009,Portugal,Sweden,0,0,FIFA World Cup qualification,Porto,Portugal,FALSE,2009,3,25,Draw
+5/31/2009,Japan,Belgium,4,0,Kirin Cup,Tokyo,Japan,FALSE,2009,44,5,Japan
+6/6/2009,Argentina,Colombia,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,2009,4,13,Argentina
+6/6/2009,Sweden,Denmark,0,1,FIFA World Cup qualification,Solna,Sweden,FALSE,2009,25,19,Denmark
+6/6/2009,Uruguay,Brazil,0,4,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2009,17,2,Brazil
+9/5/2009,Argentina,Brazil,1,3,FIFA World Cup qualification,Rosario,Argentina,FALSE,2009,4,2,Brazil
+9/5/2009,Denmark,Portugal,1,1,FIFA World Cup qualification,Copenhagen,Denmark,FALSE,2009,19,3,Draw
+9/5/2009,Spain,Belgium,5,0,FIFA World Cup qualification,La Coruña,Spain,FALSE,2009,8,5,Spain
+9/9/2009,England,Croatia,5,1,FIFA World Cup qualification,London,England,FALSE,2009,12,18,England
+10/10/2009,Denmark,Sweden,1,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE,2009,19,25,Denmark
+10/14/2009,Uruguay,Argentina,0,1,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2009,17,4,Argentina
+6/11/2010,Uruguay,France,0,0,FIFA World Cup,Cape Town,South Africa,TRUE,2010,17,7,Draw
+6/16/2010,Spain,Switzerland,0,1,FIFA World Cup,Durban,South Africa,TRUE,2010,8,11,Switzerland
+6/17/2010,France,Mexico,0,2,FIFA World Cup,Polokwane,South Africa,TRUE,2010,7,16,Mexico
+6/22/2010,Mexico,Uruguay,0,1,FIFA World Cup,Rustenburg,South Africa,TRUE,2010,16,17,Uruguay
+6/24/2010,Denmark,Japan,1,3,FIFA World Cup,Rustenburg,South Africa,TRUE,2010,19,44,Japan
+6/25/2010,Portugal,Brazil,0,0,FIFA World Cup,Durban,South Africa,TRUE,2010,3,2,Draw
+6/27/2010,Argentina,Mexico,3,1,FIFA World Cup,Johannesburg,South Africa,TRUE,2010,4,16,Argentina
+6/29/2010,Spain,Portugal,1,0,FIFA World Cup,Cape Town,South Africa,TRUE,2010,8,3,Spain
+9/7/2010,Switzerland,England,1,3,UEFA Euro qualification,Basel,Switzerland,FALSE,2010,11,12,England
+10/8/2010,Portugal,Denmark,3,1,UEFA Euro qualification,Porto,Portugal,FALSE,2010,3,19,Portugal
+6/4/2011,England,Switzerland,2,2,UEFA Euro qualification,London,England,FALSE,2011,12,11,Draw
+7/6/2011,Argentina,Colombia,0,0,Copa América,Santa Fe,Argentina,FALSE,2011,4,13,Draw
+7/12/2011,Uruguay,Mexico,1,0,Copa América,La Plata,Argentina,TRUE,2011,17,16,Uruguay
+7/16/2011,Argentina,Uruguay,1,1,Copa América,Santa Fe,Argentina,FALSE,2011,4,17,Draw
+10/11/2011,Denmark,Portugal,2,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE,2011,19,3,Denmark
+11/15/2011,Colombia,Argentina,1,2,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,2011,13,4,Argentina
+6/11/2012,France,England,1,1,UEFA Euro,Donets'k,Ukraine,TRUE,2012,7,12,Draw
+6/13/2012,Denmark,Portugal,2,3,UEFA Euro,L'viv,Ukraine,TRUE,2012,19,3,Portugal
+6/15/2012,Sweden,England,2,3,UEFA Euro,Kyïv,Ukraine,TRUE,2012,25,12,England
+6/18/2012,Croatia,Spain,0,1,UEFA Euro,Gdańsk,Poland,TRUE,2012,18,8,Spain
+6/19/2012,Sweden,France,2,0,UEFA Euro,Kyïv,Ukraine,TRUE,2012,25,7,Sweden
+6/23/2012,Spain,France,2,0,UEFA Euro,Donets'k,Ukraine,TRUE,2012,8,7,Spain
+6/27/2012,Portugal,Spain,0,0,UEFA Euro,Donets'k,Ukraine,TRUE,2012,3,8,Draw
+9/7/2012,Colombia,Uruguay,4,0,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,2012,13,17,Colombia
+9/11/2012,Belgium,Croatia,1,1,FIFA World Cup qualification,Brussels,Belgium,FALSE,2012,5,18,Draw
+10/12/2012,Argentina,Uruguay,3,0,FIFA World Cup qualification,Mendoza,Argentina,FALSE,2012,4,17,Argentina
+10/12/2012,Russia,Portugal,1,0,FIFA World Cup qualification,Moscow,Russia,FALSE,2012,65,3,Russia
+10/16/2012,Spain,France,1,1,FIFA World Cup qualification,Madrid,Spain,FALSE,2012,8,7,Draw
+3/26/2013,France,Spain,0,1,FIFA World Cup qualification,Saint-Denis,France,FALSE,2013,7,8,Spain
+6/7/2013,Argentina,Colombia,0,0,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,2013,4,13,Draw
+6/7/2013,Portugal,Russia,1,0,FIFA World Cup qualification,Lisbon,Portugal,FALSE,2013,3,65,Portugal
+6/15/2013,Brazil,Japan,3,0,Confederations Cup,Brasília,Brazil,FALSE,2013,2,44,Brazil
+6/16/2013,Spain,Uruguay,2,1,Confederations Cup,Recife,Brazil,TRUE,2013,8,17,Spain
+6/19/2013,Brazil,Mexico,2,0,Confederations Cup,Fortaleza,Brazil,FALSE,2013,2,16,Brazil
+6/22/2013,Japan,Mexico,1,2,Confederations Cup,Belo Horizonte,Brazil,TRUE,2013,44,16,Mexico
+6/26/2013,Brazil,Uruguay,2,1,Confederations Cup,Belo Horizonte,Brazil,FALSE,2013,2,17,Brazil
+6/30/2013,Brazil,Spain,3,0,Confederations Cup,Rio de Janeiro,Brazil,FALSE,2013,2,8,Brazil
+9/10/2013,Uruguay,Colombia,2,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2013,17,13,Uruguay
+10/11/2013,Croatia,Belgium,1,2,FIFA World Cup qualification,Zagreb,Croatia,FALSE,2013,18,5,Belgium
+10/15/2013,Uruguay,Argentina,3,2,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2013,17,4,Uruguay
+11/15/2013,Portugal,Sweden,1,0,FIFA World Cup qualification,Lisbon,Portugal,FALSE,2013,3,25,Portugal
+11/19/2013,Sweden,Portugal,2,3,FIFA World Cup qualification,Solna,Sweden,FALSE,2013,25,3,Portugal
+6/12/2014,Brazil,Croatia,3,1,FIFA World Cup,São Paulo,Brazil,FALSE,2014,2,18,Brazil
+6/17/2014,Brazil,Mexico,0,0,FIFA World Cup,Fortaleza,Brazil,FALSE,2014,2,16,Draw
+6/19/2014,Uruguay,England,2,1,FIFA World Cup,São Paulo,Brazil,TRUE,2014,17,12,Uruguay
+6/20/2014,Switzerland,France,2,5,FIFA World Cup,Salvador,Brazil,TRUE,2014,11,7,France
+6/22/2014,Belgium,Russia,1,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE,2014,5,65,Belgium
+6/23/2014,Croatia,Mexico,1,3,FIFA World Cup,Recife,Brazil,TRUE,2014,18,16,Mexico
+6/24/2014,Japan,Colombia,1,4,FIFA World Cup,Cuiabá,Brazil,TRUE,2014,44,13,Colombia
+6/28/2014,Colombia,Uruguay,2,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE,2014,13,17,Colombia
+7/1/2014,Argentina,Switzerland,1,0,FIFA World Cup,São Paulo,Brazil,TRUE,2014,4,11,Argentina
+7/4/2014,Brazil,Colombia,2,1,FIFA World Cup,Fortaleza,Brazil,FALSE,2014,2,13,Brazil
+7/5/2014,Argentina,Belgium,1,0,FIFA World Cup,Brasília,Brazil,TRUE,2014,4,5,Argentina
+9/8/2014,Switzerland,England,0,2,UEFA Euro qualification,Basel,Switzerland,FALSE,2014,11,12,England
+10/9/2014,Sweden,Russia,1,1,UEFA Euro qualification,Solna,Sweden,FALSE,2014,25,65,Draw
+10/14/2014,Denmark,Portugal,0,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE,2014,19,3,Portugal
+6/16/2015,Argentina,Uruguay,1,0,Copa América,La Serena,Chile,TRUE,2015,4,17,Argentina
+6/17/2015,Brazil,Colombia,0,1,Copa América,Santiago,Chile,TRUE,2015,2,13,Colombia
+6/26/2015,Argentina,Colombia,0,0,Copa América,Viña del Mar,Chile,TRUE,2015,4,13,Draw
+9/5/2015,Russia,Sweden,1,0,UEFA Euro qualification,Moscow,Russia,FALSE,2015,65,25,Russia
+9/8/2015,England,Switzerland,2,0,UEFA Euro qualification,London,England,FALSE,2015,12,11,England
+10/8/2015,Portugal,Denmark,1,0,UEFA Euro qualification,Braga,Portugal,FALSE,2015,3,19,Portugal
+10/13/2015,Uruguay,Colombia,3,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2015,17,13,Uruguay
+11/13/2015,Argentina,Brazil,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,FALSE,2015,4,2,Draw
+11/14/2015,Sweden,Denmark,2,1,UEFA Euro qualification,Solna,Sweden,FALSE,2015,25,19,Sweden
+11/17/2015,Colombia,Argentina,0,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,2015,13,4,Argentina
+11/17/2015,Denmark,Sweden,2,2,UEFA Euro qualification,Copenhagen,Denmark,FALSE,2015,19,25,Draw
+3/25/2016,Brazil,Uruguay,2,2,FIFA World Cup qualification,Recife,Brazil,FALSE,2016,2,17,Draw
+6/5/2016,Mexico,Uruguay,3,1,Copa América,Glendale,USA,TRUE,2016,16,17,Mexico
+6/11/2016,England,Russia,1,1,UEFA Euro,Marseille,France,TRUE,2016,12,65,Draw
+6/19/2016,France,Switzerland,0,0,UEFA Euro,Villeneuve-d'Ascq,France,FALSE,2016,7,11,Draw
+6/21/2016,Croatia,Spain,2,1,UEFA Euro,Bordeaux,France,TRUE,2016,18,8,Croatia
+6/22/2016,Sweden,Belgium,0,1,UEFA Euro,Nice,France,TRUE,2016,25,5,Belgium
+6/25/2016,Croatia,Portugal,0,1,UEFA Euro,Lens,France,TRUE,2016,18,3,Portugal
+7/10/2016,France,Portugal,0,1,UEFA Euro,Saint-Denis,France,FALSE,2016,7,3,Portugal
+9/1/2016,Argentina,Uruguay,1,0,FIFA World Cup qualification,Mendoza,Argentina,FALSE,2016,4,17,Argentina
+9/6/2016,Brazil,Colombia,2,1,FIFA World Cup qualification,Manaus,Brazil,FALSE,2016,2,13,Brazil
+9/6/2016,Switzerland,Portugal,2,0,FIFA World Cup qualification,Basel,Switzerland,FALSE,2016,11,3,Switzerland
+10/11/2016,Colombia,Uruguay,2,2,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,2016,13,17,Draw
+11/10/2016,Brazil,Argentina,3,0,FIFA World Cup qualification,Belo Horizonte,Brazil,FALSE,2016,2,4,Brazil
+11/11/2016,France,Sweden,2,1,FIFA World Cup qualification,Saint-Denis,France,FALSE,2016,7,25,France
+11/15/2016,Argentina,Colombia,3,0,FIFA World Cup qualification,San Juan,Argentina,FALSE,2016,4,13,Argentina
+3/23/2017,Uruguay,Brazil,1,4,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2017,17,2,Brazil
+6/9/2017,Sweden,France,2,1,FIFA World Cup qualification,Solna,Sweden,FALSE,2017,25,7,Sweden
+6/18/2017,Portugal,Mexico,2,2,Confederations Cup,Kazan,Russia,TRUE,2017,3,16,Draw
+6/21/2017,Russia,Portugal,0,1,Confederations Cup,Moscow,Russia,FALSE,2017,65,3,Portugal
+6/24/2017,Russia,Mexico,1,2,Confederations Cup,Kazan,Russia,FALSE,2017,65,16,Mexico
+7/2/2017,Portugal,Mexico,2,1,Confederations Cup,Moscow,Russia,TRUE,2017,3,16,Portugal
+8/31/2017,Uruguay,Argentina,0,0,FIFA World Cup qualification,Montevideo,Uruguay,FALSE,2017,17,4,Draw
+9/5/2017,Colombia,Brazil,1,1,FIFA World Cup qualification,Barranquilla,Colombia,FALSE,2017,13,2,Draw
+10/10/2017,Portugal,Switzerland,2,0,FIFA World Cup qualification,Lisbon,Portugal,FALSE,2017,3,11,Portugal
+6/15/2018,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,TRUE,2018,3,8,Draw
+6/17/2018,Brazil,Switzerland,1,1,FIFA World Cup,Rostov-on-Don,Russia,TRUE,2018,2,11,Draw
+6/19/2018,Colombia,Japan,1,2,FIFA World Cup,Saransk,Russia,TRUE,2018,13,44,Japan
+6/21/2018,Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,TRUE,2018,4,18,Croatia
+6/25/2018,Russia,Uruguay,0,3,FIFA World Cup,Samara,Russia,FALSE,2018,65,17,Uruguay
+6/26/2018,Denmark,France,0,0,FIFA World Cup,Moscow,Russia,TRUE,2018,19,7,Draw
+6/27/2018,Mexico,Sweden,0,3,FIFA World Cup,Ekaterinburg,Russia,TRUE,2018,16,25,Sweden
+6/28/2018,England,Belgium,0,1,FIFA World Cup,Kaliningrad,Russia,TRUE,2018,12,5,Belgium
