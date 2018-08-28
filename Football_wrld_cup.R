@@ -1,5 +1,4 @@
 
-setwd("C:/Sounak/Football world cup")
 library(caret)
 
 data1 = read.csv("FootballData.csv",stringsAsFactors = FALSE)
